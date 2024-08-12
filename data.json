@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Alice", "age": 28, "gender": "Female", "courses": ["Math", "English"]},
+  { "id": 2, "name": "John", "age": 15, "gender": "Male", "courses": ["History", "Science"]},
+  { "id": 3, "name": "Kim", "age": 25, "gender": "Undisclosed", "courses": ["Science", "Religion"]},
+  { "id": 4, "name": "Robert", "age": 13, "gender": "Male", "courses": ["Math", "Literature"]},
+  { "id": 5, "name": "Anna", "age": 22, "gender": "Female", "courses": ["Literature", "English"]},
+  { "id": 6, "name": "Suasane", "age": 35, "gender": "Female", "courses": ["Math", "Science"]}
+]
